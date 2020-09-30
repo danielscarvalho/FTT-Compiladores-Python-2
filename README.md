@@ -1,6 +1,6 @@
 #### Compiladores
 ### Linguagens de script
-## Python
+## Python 🐍
 
 Minicurso de Python
 

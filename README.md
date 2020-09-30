@@ -13,3 +13,4 @@ Referências:
 - https://www.w3schools.com/python/
 - https://books.goalkicker.com/PythonBook/
 - https://penseallen.github.io/PensePython2e/
+- https://docs.python-guide.org/

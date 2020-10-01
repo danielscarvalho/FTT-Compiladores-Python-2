@@ -1,3 +1,5 @@
+# JSON - dict
+
 d1 = {"nome": "Maria",
       "valor": 12300,
       "itens": [34,55,22],
